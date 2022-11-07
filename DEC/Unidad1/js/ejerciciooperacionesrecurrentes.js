@@ -4,7 +4,7 @@ if (num1 < 0) {
   alert("ERROR");
 }
 num2 = parseInt(prompt("Ingrese el segundo número:"));
-if (num1 < 0) {
+if (num2 < 0) {
   alert("ERROR");
 }
 if(confirm("¿Quieres hacer las operaciones?")){
